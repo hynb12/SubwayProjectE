@@ -1,0 +1,27 @@
+/* 전체 */
+* {
+	margin: 0px;
+	padding: 0px;
+}
+/* 테이블 */
+table#mapTable {
+	margin: 30px;
+	text-align: center;
+	border: 1px solid lightgray;
+}
+/* 테이블tr,td */
+table#mapTable tr td {
+	padding: 10px;
+	padding-right: 20px;
+}
+/* 검색input */
+input#searchBar {
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+/* 지도 */
+div#map {
+	margin-left: 10px;
+}
